@@ -1,4 +1,9 @@
 # Sudoku
+## Demo
+### Auto Solving
+![auto-solving](https://user-images.githubusercontent.com/73168961/129455427-3033f386-5c4a-4915-a6df-a2b5f000e6dd.gif)
+### Manual Solving
+![manual-solving](https://user-images.githubusercontent.com/73168961/129455647-78188859-4674-43c9-8331-b7b6bddf6f50.gif)
 ## Introduction to Sudoku
 * Its a famous board game Sudoku
 * You will be given a 9x9 with 9 submatrices of 3x3
